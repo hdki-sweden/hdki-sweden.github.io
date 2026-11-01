@@ -1,0 +1,6 @@
+# Local working backups
+backup-*/
+
+# Windows files
+Thumbs.db
+Desktop.ini
