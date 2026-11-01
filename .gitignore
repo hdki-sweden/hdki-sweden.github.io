@@ -1,6 +1,20 @@
-# Local working backups
-backup-*/
-
-# Windows files
-Thumbs.db
-Desktop.ini
+# Track only files required by the approved website.
+# Sources, originals, studies and backups remain local.
+/*
+!/.gitignore
+!/bilder/
+/bilder/*
+!/.nojekyll
+!/bilder/Bushido-Karate-Karlskrona.png
+!/bilder/cropped-HDKI_Flagga_SWEDEN_1000px.jpg
+!/bilder/dojo-background.png
+!/bilder/karate-hero.png
+!/bilder/karatedo-clean.png
+!/bilder/Shinbudokai.png
+!/bilder/Shotokan-Tiger.jpg
+!/bilder/shuhari-matched.png
+!/bilder/Storuman.jpg
+!/design-variants.css
+!/en.html
+!/index.html
+!/styles.css
